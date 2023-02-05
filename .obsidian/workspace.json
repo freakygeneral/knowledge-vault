@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "db67ef3d3fd05cdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9acc9890c49b4a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f2ea0fcc060fbb8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b23e1114e75773bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "015712abaa3682a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbc6fa9a4e0959c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b4517603b3905dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2c61ca10e5e9263",
+    "type": "split",
+    "children": [
+      {
+        "id": "05813c72cec290c6",
+        "type": "tabs",
+        "dimension": 46.13259668508287,
+        "children": [
+          {
+            "id": "aef6f9fc0e321f19",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "092ac14820919dbe",
+        "type": "tabs",
+        "dimension": 53.86740331491713,
+        "children": [
+          {
+            "id": "44f4fbdb9aae434f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6f2ea0fcc060fbb8",
+  "lastOpenFiles": [
+    "README.md",
+    "UX career certificate/Foundations of UX/04-Design sprints.md",
+    "UX career certificate/Foundations of UX/03-Thinking like a UX designer.md",
+    "UX career certificate/Foundations of UX/02-Role of research in design.md",
+    "UX career certificate/Foundations of UX/01-Introduction to UX design.md",
+    "UX career certificate/UX research and testing/UX research studies.md",
+    "Introduction to data and excel/04-Importing data into excel.md",
+    "Introduction to data and excel/03-Data analysis process.md",
+    "Tasks and reminders/Daily and weekly tasks.md",
+    "Introduction to data and excel/05-Organizing data in excel.md"
+  ]
+}
