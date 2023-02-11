@@ -1,5 +1,4 @@
 # Empathizing with users
-## The UX Design Process 
 The user experience design process starts from getting to know about your user and empathizing with them then defining their problems to your team and finally coming up with ideas on how to solve the user’s problems.
 
 ## Empathize with Users
