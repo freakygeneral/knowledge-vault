@@ -39,3 +39,17 @@ A sample use case can be to predict the prices of used cars, you can have a spre
 > This model can also work if a customers gives it their budget and the model will recommend cars to the customer  that are equal or lower than their maximum budget.
 
 Machine learning can also be used to detect items and tell the user what they are looking for. You can make a dataset that contains pictures dogs and are manually labelled after training the model will be able to recognize the type of breed the current dog is.
+
+## Gathering data
+Data can be collected from almost anything and anything can be considered as data. You can go outside and observe honey bees and collect data about how they make honey, what is the flight path of bees and what type of flowers are they most intersted in pollinating and you can also observe huge machinery in factories and figure out the average life-span of a machine and when will it stop working, what could we do to keep the machine in a better condition and what not.
+
+There are also free datasets available on the internet that you can train you model on and since the data has already been collected and is ready for models to train on you can save a whole lot of time by skipping the data gathering process.
+
+## Misuse and types of data
+It is also recommended that you should start training your model as soon as you start collecting data and avoid the trap of a *perfect* dataset that you can build in a few years time. If you keep on building the dataset when will you train the AI?
+
+Most companies also don't really know the difference between raw-data and cleaned data. Raw data is sometimes incomplete or parts of it are irrelevant to us even if there is a huge amount of it. Clean and complete data is what is required for training AI models even if there isn't enough, you can gather more of it eventually.
+
+> If you want your models to be as accrate as possible then focus on the quality of your training data and not the quantity.
+
+The type of data that you're training your model is also a huge factor, if you train it to recognise pictures of dogs to identify the breed and then give it a recording of a dog barking then it would only result in an error since the AI wasn't trained on voices of dogs.
